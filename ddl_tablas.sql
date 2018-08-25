@@ -5,3 +5,5 @@ autor: gianina rivera
 
 prueba
 
+create table alterna
+
